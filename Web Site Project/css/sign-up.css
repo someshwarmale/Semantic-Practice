@@ -1,0 +1,13 @@
+body {
+	background-image: url(../images/seabed.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+body > .grid {
+  height: 100%;
+}
+
+.column {
+  max-width: 450px;
+}
